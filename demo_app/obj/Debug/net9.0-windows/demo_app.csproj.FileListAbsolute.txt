@@ -142,3 +142,6 @@ C:\Users\KenG\Documents\demo_app\demo_app\demo_app\bin\Debug\net9.0-windows\runt
 C:\Users\KenG\Documents\demo_app\demo_app\demo_app\obj\Debug\net9.0-windows\demo_app.LoginForm.resources
 C:\Users\KenG\Documents\demo_app\demo_app\demo_app\bin\Debug\net9.0-windows\demo_app.dll.config
 C:\Users\KenG\Documents\demo_app\demo_app\demo_app\obj\Debug\net9.0-windows\demo_app.MainForm.resources
+C:\Users\KenG\Documents\demo_app\demo_app\demo_app\obj\Debug\net9.0-windows\demo_app.AdminForm.resources
+C:\Users\KenG\Documents\demo_app\demo_app\demo_app\obj\Debug\net9.0-windows\demo_app.QuanLiForm.resources
+C:\Users\KenG\Documents\demo_app\demo_app\demo_app\obj\Debug\net9.0-windows\demo_app.sourcelink.json
